@@ -2,19 +2,9 @@
   <img src="https://raw.githubusercontent.com/DigitalGnosis/.github/main/profile/dg-mark.png" width="120" alt="dg_" />
 </p>
 
-```console
-gnosis@redding:~$ whoami
-Digital Gnosis — Redding, CA
-
-gnosis@redding:~$ cat what-we-do.txt
-web infrastructure · apps · ordering systems — for small business
-
-gnosis@redding:~$ ls stack/
-react/  next/  typescript/  supabase/  postgres/
-stripe/  vercel/  payload/  tailwind/  node/
-
-gnosis@redding:~$ open https://digitalgnosis.dev
-```
+<a href="https://digitalgnosis.dev">
+  <img src="https://raw.githubusercontent.com/DigitalGnosis/.github/main/profile/terminal.svg" width="100%" alt="gnosis@redding terminal — whoami: Digital Gnosis, Redding CA. What we do: web infrastructure, apps, ordering systems for small business. Stack: React, Next.js, TypeScript, Supabase, PostgreSQL, Stripe, Vercel, Payload, Tailwind, Node.js. open digitalgnosis.dev" />
+</a>
 
 We build digital machines for small businesses — the kind usually reserved
 for companies a hundred times their size — and we stay in the driver's seat
